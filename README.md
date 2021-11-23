@@ -148,3 +148,5 @@ export default class WheelPicker extends Component {
 [@lesliesam](https://github.com/lesliesam) - for the original source code for which this code was forked off of
 
 [@m3rlin94](https://github.com/m3rlin94) - for the line coloring code
+
+[@gennadysx](https://github.com/gennadysx) - for supporting and collaboration
