@@ -2,7 +2,7 @@
 
 import React from 'react';
 import PropTypes from 'prop-types'
-const { ColorPropType } from 'deprecated-react-native-prop-types'
+import { ColorPropType } from 'deprecated-react-native-prop-types'
 import {
 	requireNativeComponent,
 } from 'react-native';
